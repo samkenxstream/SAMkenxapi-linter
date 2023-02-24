@@ -22,7 +22,7 @@ require (
 
 require (
 	github.com/mattn/go-runewidth v0.0.9 // indirect
-	golang.org/x/net v0.6.0 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	google.golang.org/grpc v1.53.0 // indirect
 )
